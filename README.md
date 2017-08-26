@@ -5,7 +5,7 @@ Parse your exam results with this python program and let it tell you!
 
 ## Prerequisites
 
-If you have not installed python yet, I would recommend using the [anaconda](https://www.continuum.io/downloads) distribution as it contains all necessary libraries.
+If you have not yet installed python, I would recommend using the [anaconda](https://www.continuum.io/downloads) distribution as it contains all necessary libraries.
 Otherwise you will need to install 
 
 - python 2.7
