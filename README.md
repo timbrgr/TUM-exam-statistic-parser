@@ -3,6 +3,8 @@
 Are you a student at the Technical University Munich (TUM) in Germany? Want to see how well you performed in comparison to your classmates?
 Parse your exam results with this python program and let it tell you!
 
+Scraping utils kindly provided by @[Adnan Akhundov](https://github.com/aakhundov)
+
 ## Prerequisites
 
 If you have not yet installed python, I would recommend using the [anaconda](https://www.continuum.io/downloads) distribution as it contains all necessary libraries.
