@@ -1,3 +1,6 @@
 /.idea/
 /data/
 /output/
+/.ipynb_checkpoints
+*.ipynb
+/parselib/__pycache__/
